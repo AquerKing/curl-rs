@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
+name = "curl-derive"
+version = "0.1.0"
+
+[[package]]
 name = "curl-rs"
 version = "0.1.0"
