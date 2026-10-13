@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+curl-derive = { path = "../curl-derive" }
+regex = "1.13.1"
 
 [[bin]]
 name = "curl"
